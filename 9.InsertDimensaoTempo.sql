@@ -1,5 +1,3 @@
--- Conectar ao banco de dados relacional
-USE relacional;
 
 -- Inserir dados na dimensão dim_categoria (extrair e limpar dados únicos)
 INSERT INTO Dimensional.dim_categoria (nome)
